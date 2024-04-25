@@ -1,0 +1,15 @@
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\bin\Debug\net6.0\Exercicio_Matriz_Funcao.exe
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\bin\Debug\net6.0\Exercicio_Matriz_Funcao.deps.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\bin\Debug\net6.0\Exercicio_Matriz_Funcao.runtimeconfig.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\bin\Debug\net6.0\Exercicio_Matriz_Funcao.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\bin\Debug\net6.0\Exercicio_Matriz_Funcao.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\Exercicio_Matriz_Funcao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\Exercicio_Matriz_Funcao.AssemblyInfoInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\Exercicio_Matriz_Funcao.AssemblyInfo.cs
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\Exercicio_Matriz_Funcao.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\Exercicio_Matriz_Funcao.sourcelink.json
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\Exercicio_Matriz_Funcao.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\refint\Exercicio_Matriz_Funcao.dll
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\Exercicio_Matriz_Funcao.pdb
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\Exercicio_Matriz_Funcao.genruntimeconfig.cache
+C:\Users\Matheus\Exercicios_Estagio\Exercicio_Matriz_Funcao\Exercicio_Matriz_Funcao\obj\Debug\net6.0\ref\Exercicio_Matriz_Funcao.dll
