@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Exercicio_Matriz_Funcao")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c1c2368f22a01653ebbe35a3ae4294c287a1eb5")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+746c9918e6d87ddeb182fccebc366f411e93d9fb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Exercicio_Matriz_Funcao")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Exercicio_Matriz_Funcao")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
