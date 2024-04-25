@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao.csproj": {}
+    "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao.csproj": {
+    "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao.csproj",
+        "projectUniqueName": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao.csproj",
         "projectName": "Exercicio_Matriz_Funcao",
-        "projectPath": "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao.csproj",
+        "projectPath": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao.csproj",
         "packagesPath": "C:\\Users\\Matheus\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Matheus\\Desktop\\Aulas - Exercícios\\2ª Semana\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\obj\\",
+        "outputPath": "C:\\Users\\Matheus\\Exercicios_Estagio\\Exercicio_Matriz_Funcao\\Exercicio_Matriz_Funcao\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Matheus\\AppData\\Roaming\\NuGet\\NuGet.Config",
